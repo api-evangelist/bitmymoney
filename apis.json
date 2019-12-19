@@ -1,0 +1,55 @@
+{
+    "name": "Bitmymoney",
+    "description": "Buy Bitcoins securely with iDeal. Bitmymoney provides an account to store, sell and buy bitcoins.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1756-bitmymoney.jpg",
+    "tags": [
+        "api not found",
+        "blockchain",
+        "financial services",
+        "have api",
+        "marketplaces"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bitmymoney\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Bitmymoney",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1756-bitmymoney.jpg",
+            "humanURL": "https:\/\/bitmymoney.com\/docs\/api\/payment-service\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bitmymoney-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/bitmymoney"
+        },
+        {
+            "type": "Email",
+            "url": "support@bitmymoney.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@bitmymoney.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/bitmymoney"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/bitmymoney.com\/docs\/api\/payment-service\/"
+        }
+    ]
+}
